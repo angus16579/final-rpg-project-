@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="gameupdate" id="oU;$K@m!8:m{O@C4/NCs" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="f+2RaW/Z,;[VOAoj%.6o">mySprite</variable><variable type="KIND_SpriteKind" id="goeQraQv%@axpOA5)SZ0">Player</variable><variable type="KIND_SpriteKind" id="PmYJ)H`y/9.E,d!8/T@M">Projectile</variable><variable type="KIND_SpriteKind" id="yis4nfI#v+v5OtYUd_;!">Food</variable><variable type="KIND_SpriteKind" id="@B#qs`%5I7udLJB@Mn-g">Enemy</variable></variables><block type="gameupdate" id="oU;$K@m!8:m{O@C4/NCs" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="t]r^=kr88n/dD3;_Bt6w"><field name="VAR" id="f+2RaW/Z,;[VOAoj%.6o">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="k4@V$lZT]vzKyldcQ+k="><value name="img"><shadow type="screen_image_picker" id="MJeWRWl6Wq?pR`=JCKJg"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"MJeWRWl6Wq?pR`=JCKJg"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="$L/BmTc^e8IY-MQQ+xy)"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
